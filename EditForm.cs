@@ -1,4 +1,4 @@
-﻿using Sumagang_Jon_Mickyl;
+﻿using Nepacina_Jaymhar_Angel;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -9,7 +9,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Sumagang_Jon_Mickyl
+namespace Nepacina_Jaymhar_Angel
 {
     public partial class EditForm : Form
     {
@@ -48,17 +48,17 @@ namespace Sumagang_Jon_Mickyl
             // Mock implementation - replace with actual data retrieval logic
             return new UserProfile
             {
-                Name = "Jon Mickyl Sumagang",
-                Age = 21,
-                Address = "Bautista Pangasinan",
-                ContactNumber = "09914850595",
-                Email = "mickylmickey@gmail.com",
+                Name = "Jaymhar Angel Nepacina",
+                Age = 20,
+                Address = "Bayambang Pangasinan",
+                ContactNumber = "09304389440",
+                Email = "jaymharnepacina@gmail.com",
                 Course = "BSIT",
                 Year = "Third",
-                ParentName = "Mary Sumagang",
-                ParentContact = "09317570091",
-                Hobbies = "Gaming",
-                Nickname = "JM"
+                ParentName = "Margie Nepacina",
+                ParentContact = "09993169692",
+                Hobbies = "Gaming, Cycling, Basketball",
+                Nickname = "Amats"
             };
         }
 
