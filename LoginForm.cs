@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Sumagang_Jon_Mickyl
+namespace Nepacina_Jaymhar_Angel
 {
     public partial class LoginForm : Form
     {
